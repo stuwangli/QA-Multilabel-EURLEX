@@ -12,3 +12,7 @@ LEGAL-BERT-SC: https://drive.google.com/drive/folders/1vXFA5atjIGAigLQlfpvuF-hTg
 Zlucia/customeLEGALBERT: https://drive.google.com/drive/folders/1lrrqjdeBVytNlYQBf01y1pbk_Fm6-Zdb?usp=share_link
 
 Zlucia/LEGALBERT: https://drive.google.com/drive/folders/1NTjUaKzvN7RgNYNnyG-QVj4tvwsZGhkE?usp=share_link
+
+pre-processed EURLEX samples (current uploaded validation data):
+
+https://huggingface.co/datasets/stuwang/QAmultilabelEURLEXsamples 
